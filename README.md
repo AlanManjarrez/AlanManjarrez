@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**AlanManjarrez/AlanManjarrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!!
+<div align="justify">
 
-Here are some ideas to get you started:
+Mi nombre es Alan Manjarrez. Tengo 23 años y soy de Sonora, México
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/22vkvzgl6agopkaeguqp2cn7q?si=ff580e7a01aa400f)
+
+You can ping me on these social networks:
+[![](https://img.shields.io/badge/-jjose_alan@hotmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jjose_alan@hotmail.com)
+
+
+
+---
+
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanManjarrezF&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | !Stats |
+| - | - |
+</p>
+
