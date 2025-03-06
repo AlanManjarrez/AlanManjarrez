@@ -17,8 +17,8 @@
 
 ---
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alanmanjarrez&theme=ocean-gradient&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | ![Stats](https://github-readme-stats.vercel.app/api?username=Alanmanjarrez&count_private=true&show_icons=true&include_all_commits=true&theme=ocean-gradient) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanmanjarrez&layout=compact&theme=ocean-gradient) |
-| - | - | - |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alanmanjarrez&theme=ocean-gradient&hide_border=false&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | ![Stats](https://github-readme-stats.vercel.app/api?username=Alanmanjarrez&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&theme=ocean-gradient) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanmanjarrez&layout=compact&hide_border=false&theme=ocean-gradient) |
+| - | - | - |
 
 
 
