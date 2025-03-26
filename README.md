@@ -15,6 +15,33 @@
 
 </p>
 
+<h3>Databases</h3>
+<div>
+    <span style="background-color: #4169E1; color: white; padding: 5px 10px; border-radius: 3px;">MySQL</span>
+    <span style="background-color: #336791; color: white; padding: 5px 10px; border-radius: 3px;">PostgreSQL</span>
+</div>
+
+<h3>Languages</h3>
+<div>
+    <span style="background-color: #F5A623; color: white; padding: 5px 10px; border-radius: 3px;">Java</span>
+    <span style="background-color: #E44D26; color: white; padding: 5px 10px; border-radius: 3px;">HTML5</span>
+    <span style="background-color: #2965F1; color: white; padding: 5px 10px; border-radius: 3px;">CSS3</span>
+</div>
+
+<h3>Tools</h3>
+<div>
+    <span style="background-color: #007ACC; color: white; padding: 5px 10px; border-radius: 3px;">VSCode</span>
+    <span style="background-color: #181717; color: white; padding: 5px 10px; border-radius: 3px;">Github</span>
+    <span style="background-color: #2C3E50; color: white; padding: 5px 10px; border-radius: 3px;">Apache NetBeans</span>
+    <span style="background-color: #F24E1E; color: white; padding: 5px 10px; border-radius: 3px;">Figma</span>
+    <span style="background-color: #563d7c; color: white; padding: 5px 10px; border-radius: 3px;">Bootstrap Studio</span>
+</div>
+
+<h3>Frameworks</h3>
+<div>
+    <span style="background-color: #092E20; color: white; padding: 5px 10px; border-radius: 3px;">Django</span>
+</div>
+
 ---
 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alanmanjarrez&theme=ocean-gradient&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) | ![Stats](https://github-readme-stats.vercel.app/api?username=Alanmanjarrez&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=ocean-gradient)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanmanjarrez&layout=compact&theme=ocean-gradient) |
