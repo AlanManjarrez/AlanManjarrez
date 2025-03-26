@@ -17,8 +17,8 @@
 
 <h3>Databases</h3>
 <div>
-    <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 <h3>Languages</h3>
