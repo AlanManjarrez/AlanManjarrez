@@ -4,16 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mi+nombre+es+Alan+Manjarrez..&hearts;++;Tengo+23+años,;Soy+de+Sonora,+México"></a></p>
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/wirthix/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="mailto:jjose_alan@hotmail.com">
-			<img width="45px"; height="45px" src="https://cdn-icons-png.flaticon.com/512/2590/2590807.png" ></a>
-      </div>
-
-</p>
 
 <h3>Databases</h3>
 <div>
@@ -41,6 +32,17 @@
 <div>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </div>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto 🤝 </h3>
+
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/wirthix/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="mailto:jjose_alan@hotmail.com">
+			<img width="45px"; height="45px" src="https://cdn-icons-png.flaticon.com/512/2590/2590807.png" ></a>
+      </div>
+
+</p>
 
 ---
 
