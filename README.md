@@ -17,29 +17,29 @@
 
 <h3>Databases</h3>
 <div>
-    <img src="https://img.shields.io/badge/MySQL-00f?style=Social&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 <h3>Languages</h3>
 <div>
-    <img src="https://img.shields.io/badge/-Java-F5A623?style=flat-square&logo=ORACLE&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3" alt="CSS3">
+    <img src="https://img.shields.io/badge/-Java-F5A623?style=for-the-badge&logo=ORACLE&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3" alt="CSS3">
 </div>
 
 <h3>Tools</h3>
 <div>
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" alt="VSCode">
-    <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="Github">
-    <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Bootstrap%20Studio-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Studio">
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VSCode">
+    <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Bootstrap%20Studio-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Studio">
 </div>
 
 <h3>Frameworks</h3>
 <div>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </div>
 
 ---
