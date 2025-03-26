@@ -17,7 +17,7 @@
 
 <h3>Databases</h3>
 <div>
-    <img src="https://img.shields.io/badge/MySQL-00f?style=Plastic&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-00f?style=Social&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
