@@ -17,29 +17,29 @@
 
 <h3>Databases</h3>
 <div>
-    <span style="background-color: #4169E1; color: white; padding: 5px 10px; border-radius: 3px;">MySQL</span>
-    <span style="background-color: #336791; color: white; padding: 5px 10px; border-radius: 3px;">PostgreSQL</span>
+    <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 <h3>Languages</h3>
 <div>
-    <span style="background-color: #F5A623; color: white; padding: 5px 10px; border-radius: 3px;">Java</span>
-    <span style="background-color: #E44D26; color: white; padding: 5px 10px; border-radius: 3px;">HTML5</span>
-    <span style="background-color: #2965F1; color: white; padding: 5px 10px; border-radius: 3px;">CSS3</span>
+    <img src="https://img.shields.io/badge/-Java-F5A623?style=flat-square&logo=ORACLE&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3" alt="CSS3">
 </div>
 
 <h3>Tools</h3>
 <div>
-    <span style="background-color: #007ACC; color: white; padding: 5px 10px; border-radius: 3px;">VSCode</span>
-    <span style="background-color: #181717; color: white; padding: 5px 10px; border-radius: 3px;">Github</span>
-    <span style="background-color: #2C3E50; color: white; padding: 5px 10px; border-radius: 3px;">Apache NetBeans</span>
-    <span style="background-color: #F24E1E; color: white; padding: 5px 10px; border-radius: 3px;">Figma</span>
-    <span style="background-color: #563d7c; color: white; padding: 5px 10px; border-radius: 3px;">Bootstrap Studio</span>
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" alt="VSCode">
+    <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Bootstrap%20Studio-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Studio">
 </div>
 
 <h3>Frameworks</h3>
 <div>
-    <span style="background-color: #092E20; color: white; padding: 5px 10px; border-radius: 3px;">Django</span>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
 </div>
 
 ---
