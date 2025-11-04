@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Alan</b><br><br><img src="assets/hug-love.gif" width="200"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mi+nombre+es+Alan+Manjarrez..&hearts;++;Tengo+23+años,;Soy+de+Sonora,+México"></a></p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mi+nombre+es+Alan+Manjarrez..&hearts;++;Tengo+24+años,;Soy+de+Sonora,+México"></a></p>
 
 
 <h3>Databases</h3>
